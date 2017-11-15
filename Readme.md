@@ -1,6 +1,6 @@
 # Story Mania Hör-Box Tools
 
-Die [https://storymania.migros.ch/de/hoerspiele/hoer-box/](Story Mania Hör-Box) wurde von der Migros im Herbst 2017 im Rahmen einer Promoaktion verkauft.
+Die [Story Mania Hör-Box](https://storymania.migros.ch/de/hoerspiele/hoer-box/) wurde von der Migros im Herbst 2017 im Rahmen einer Promoaktion verkauft.
 
 ## Funktionsweise
 
